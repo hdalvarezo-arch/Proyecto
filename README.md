@@ -1,0 +1,1 @@
+Este es un proyecto para el parcial de electiva; Mantenimiento de computadores y desarrollo de aplicaciones web, semestre II 2026 
